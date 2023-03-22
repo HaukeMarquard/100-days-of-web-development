@@ -1,8 +1,15 @@
 h1,
 p {
-  font-family: sans-serif;
   text-align: center;
   color: rgb(83, 75, 75);
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+}
+
+p {
+  font-family: "Fira Sans", sans-serif;
 }
 
 a {
@@ -16,4 +23,6 @@ a:hover {
 
 #todays-challenge {
   color: rgb(170, 96, 83);
+  font-weight: bold;
+  font-size: 52px;
 }
