@@ -1,13 +1,15 @@
 h1 {
   font-size: 48px;
   color: rgb(71, 62, 62);
+  margin: 12px 0;
 }
 
 a {
+  border: 1px solid yellow;
   background-color: rgb(167, 1, 78);
   color: white;
   border-radius: 4px;
-  padding: 2px 5px;
+  padding: 12px 20px;
 }
 
 a:hover {
@@ -15,8 +17,10 @@ a:hover {
   background-color: rgb(180, 12, 90);
 }
 
-ul {
+ol {
   list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
 }
 
 li {
