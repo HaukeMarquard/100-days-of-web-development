@@ -9,7 +9,9 @@ a {
   background-color: rgb(167, 1, 78);
   color: white;
   border-radius: 4px;
-  padding: 12px 20px;
+  padding: 12px 48px;
+  display: inline-block;
+  margin: 12px 0;
 }
 
 a:hover {
@@ -30,10 +32,6 @@ li {
   padding: 16px;
 }
 
-/* #description {
-  margin-bottom: 36px;
-} */
-
 header p {
   margin-bottom: 36px;
 }
@@ -50,4 +48,8 @@ main p {
 
 .highlight-goal {
   background-color: rgb(226, 115, 101);
+}
+
+#description {
+  margin: 0;
 }
