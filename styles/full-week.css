@@ -43,7 +43,11 @@ h2 {
   color: rgb(78, 13, 5);
 }
 
-.daily-goal {
+main p {
   margin: 12px;
   color: rgb(71, 29, 22);
+}
+
+.highlight-goal {
+  background-color: rgb(226, 115, 101);
 }
