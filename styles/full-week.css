@@ -27,4 +27,23 @@ li {
   margin: 32px;
   background-color: rgb(223, 136, 124);
   border-radius: 6px;
+  padding: 16px;
+}
+
+/* #description {
+  margin-bottom: 36px;
+} */
+
+header p {
+  margin-bottom: 36px;
+}
+
+h2 {
+  font-family: "Oswald", sans-serif;
+  color: rgb(78, 13, 5);
+}
+
+main p {
+  margin: 12px;
+  color: rgb(71, 29, 22);
 }
